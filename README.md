@@ -64,5 +64,124 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Billecta is a company surfaced via the API Evangelist harvest backlog (source: stockholm-trip) and added to the network as a stub for full-pipeline profiling.
-- https://billecta.com/
+Billecta provides a cloud‑based invoicing and payment automation platform for businesses in Sweden and beyond. Their solution automates the full invoicing flow, from invoice creation and delivery to payment collection and bookkeeping. Features include automated reminders, credit‑control, integration with accounting systems, and support for direct payments and auto‑giro. The service is offered as a SaaS product with a free trial and is designed for companies of all sizes, from startups to large enterprises. Billecta emphasizes ease of use, speed, and compliance with Swedish financial regulations.
+
+**Areas:** Fintech · Invoicing · Payments · Software-as-a-Service · Sweden · BusinessAutomation
+
+## Billecta on APIs.io
+
+Everything profiled for Billecta is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/billecta/](https://apis.io/providers/billecta/)** — or go straight to one of the APIs or properties below.
+
+### APIs (16)
+
+- [Billecta API](https://apis.io/apis/billecta/billecta-api-2/) — Main API documented at Billecta Docs reference page.
+- [Billecta Accounting API](https://apis.io/apis/billecta/billecta-accounting-api/) — The Accounting API from Billecta — 3 operation(s) for accounting.
+- [Billecta Accountingdimensions API](https://apis.io/apis/billecta/billecta-accountingdimensions-api/) — The Accountingdimensions API from Billecta — 3 operation(s) for accountingdimensions.
+- [Billecta Action API](https://apis.io/apis/billecta/billecta-action-api/) — The Action API from Billecta — 1 operation(s) for action.
+- [Billecta Authentication API](https://apis.io/apis/billecta/billecta-authentication-api/) — The Authentication API from Billecta — 2 operation(s) for authentication.
+- [Billecta Bankaccount API](https://apis.io/apis/billecta/billecta-bankaccount-api/) — The Bankaccount API from Billecta — 2 operation(s) for bankaccount.
+- [Billecta Bankid API](https://apis.io/apis/billecta/billecta-bankid-api/) — The Bankid API from Billecta — 2 operation(s) for bankid.
+- [Billecta Common API](https://apis.io/apis/billecta/billecta-common-api/) — The Common API from Billecta — 1 operation(s) for common.
+- [Billecta Contractinvoice API](https://apis.io/apis/billecta/billecta-contractinvoice-api/) — The Contractinvoice API from Billecta — 2 operation(s) for contractinvoice.
+- [Billecta Creditors API](https://apis.io/apis/billecta/billecta-creditors-api/) — The Creditors API from Billecta — 2 operation(s) for creditors.
+- [Billecta Debtors API](https://apis.io/apis/billecta/billecta-debtors-api/) — The Debtors API from Billecta — 1 operation(s) for debtors.
+- [Billecta Invoice API](https://apis.io/apis/billecta/billecta-invoice-api/) — The Invoice API from Billecta — 1 operation(s) for invoice.
+- [Billecta Products API](https://apis.io/apis/billecta/billecta-products-api/) — The Products API from Billecta — 1 operation(s) for products.
+- [Billecta Search API](https://apis.io/apis/billecta/billecta-search-api/) — The Search API from Billecta — 1 operation(s) for search.
+- [Billecta Add Ons API](https://apis.io/apis/billecta/billecta-add-ons-api/) — The Add Ons API from Billecta — 2 operation(s) for add ons.
+- [Billecta Cost Centers API](https://apis.io/apis/billecta/billecta-cost-centers-api/) — The Cost Centers API from Billecta — 2 operation(s) for cost centers.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [PostV1AccountingAccountingidRequest](https://apis.io/schemas/billecta/billecta-post-v1-accounting-accountingid-request/)
+- [PostV1BankaccountInitiateretrievalRequest](https://apis.io/schemas/billecta/billecta-post-v1-bankaccount-initiateretrieval-request/)
+- [PostV1BankaccountInitiateretrievalRequest2](https://apis.io/schemas/billecta/billecta-post-v1-bankaccount-initiateretrieval-request2/)
+- [PostV1BankidPhoneauthenticationRequest](https://apis.io/schemas/billecta/billecta-post-v1-bankid-phoneauthentication-request/)
+- [PutV1AccountingAccountingidRequest](https://apis.io/schemas/billecta/billecta-put-v1-accounting-accountingid-request/)
+- [PutV1BankidBankididRequest](https://apis.io/schemas/billecta/billecta-put-v1-bankid-bankidid-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Billecta Context](https://apis.io/jsonld/billecta/billecta-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Billecta API Rules](https://apis.io/rules/billecta/billecta-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Billecta Domain Security](https://apis.io/security/billecta/billecta-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://billecta.com/)
+- [Documentation](https://docs.billecta.com/)
+- [Getting started](https://docs.billecta.com/api)
+- [API reference](https://docs.billecta.com/reference)
+
+## API Evangelist rating
+
+**Kin Score 20.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 25.5 |
+| Contract governance | 22.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 0.0 |
+
+**Agent readiness 15.5** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/billecta/](https://apis.io/providers/billecta/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Billecta: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/billecta/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
